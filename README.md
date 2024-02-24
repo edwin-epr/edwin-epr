@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 Actualmente trabajo en la ENES Unidad Mérida de la UNAM como Técnico Académico en donde apoyo en labores de investigación desarrollando software de cómputo de alto rendimiento.
 
-### Técnologías con las que trabajo:
+### Técnologías con las que trabajo y estoy familiarizado:
 
 ![Linux](https://img.shields.io/badge/Linux-003366?style=for-the-badge&logo=linux&logoColor=black&labelColor=e5e6eb)
 ![C_Language](https://img.shields.io/badge/Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=e5e6eb)
@@ -46,10 +46,9 @@ Here are some ideas to get you started:
 ### Tengo como meta desarrollar aplicaciones con estas tecnologías:
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=black&labelColor=e5e6eb)
-![iOs](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=black&labelColor=e5e6eb)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=black&labelColor=e5e6eb)
-
-
-
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black&labelColor=e5e6eb)
+![Jetpack_Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=black&labelColor=e5e6eb)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=black&labelColor=e5e6eb)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=black&labelColor=e5e6eb)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-epr&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
