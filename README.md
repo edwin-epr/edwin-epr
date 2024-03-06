@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&labelColor=e5e6eb)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=e5e6eb)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=black&labelColor=e5e6eb)
+<!--
 ![BASH](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=black&labelColor=e5e6eb)
+-->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black&labelColor=e5e6eb)
 ![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=black&labelColor=e5e6eb)
 
@@ -41,7 +43,9 @@ Here are some ideas to get you started:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=e5e6eb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&labelColor=e5e6eb)
+<!--
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black&labelColor=e5e6eb)
+-->
 
 ### Tengo como meta desarrollar aplicaciones con estas tecnologías:
 
