@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![C_Language](https://img.shields.io/badge/Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=e5e6eb)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&labelColor=e5e6eb)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=e5e6eb)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=black&labelColor=e5e6eb)
+<!-- ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=black&labelColor=e5e6eb) -->
 <!--
 ![BASH](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=black&labelColor=e5e6eb)
 -->
